@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Body>
+    <ReportItems>
+      <Tablix Name="Tablix1">
+        <TablixBody>
+          <TablixColumns>
+            <TablixColumn>
+              <Width>3.47694cm</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>3.12732cm</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>4.95307cm</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>3.10098cm</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>3.23327cm</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>2.86286cm</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>4.87369cm</Width>
+            </TablixColumn>
+          </TablixColumns>
+          <TablixRows>
+            <TablixRow>
+              <Height>0.6cm</Height>
+              <TablixCells>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox3">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>Код Материала БД</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                                <FontWeight>Bold</FontWeight>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox3</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox5">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>Код Материала</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                                <FontWeight>Bold</FontWeight>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox5</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox9">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>Имя Материала</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                                <FontWeight>Bold</FontWeight>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox9</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox15">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>ГОСТ Материала</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                                <FontWeight>Bold</FontWeight>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox15</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox7">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>Марка Материала</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                                <FontWeight>Bold</FontWeight>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox7</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox17">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>Тип Материала</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                                <FontWeight>Bold</FontWeight>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox17</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox13">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>Описание Материала</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                                <FontWeight>Bold</FontWeight>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox13</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+              </TablixCells>
+            </TablixRow>
+            <TablixRow>
+              <Height>0.6cm</Height>
+              <TablixCells>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="ID_MatDB">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!ID_MatDB.Value</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Left</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>ID_MatDB</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="ID_Mat">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!ID_Mat.Value</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Left</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>ID_Mat</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Name_Mat">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!Name_Mat.Value</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Left</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Name_Mat</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="GOST_Mat">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!GOST_Mat.Value</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>GOST_Mat</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Brand_Mat">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!Brand_Mat.Value</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Brand_Mat</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Type_Mat">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!Type_Mat.Value</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Type_Mat</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Desc_Mat">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!Desc_Mat.Value</Value>
+                              <Style>
+                                <FontFamily>Times New Roman</FontFamily>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Left</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Desc_Mat</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+              </TablixCells>
+            </TablixRow>
+          </TablixRows>
+        </TablixBody>
+        <TablixColumnHierarchy>
+          <TablixMembers>
+            <TablixMember />
+            <TablixMember />
+            <TablixMember />
+            <TablixMember />
+            <TablixMember />
+            <TablixMember />
+            <TablixMember />
+          </TablixMembers>
+        </TablixColumnHierarchy>
+        <TablixRowHierarchy>
+          <TablixMembers>
+            <TablixMember>
+              <KeepWithGroup>After</KeepWithGroup>
+            </TablixMember>
+            <TablixMember>
+              <Group Name="Подробности" />
+            </TablixMember>
+          </TablixMembers>
+        </TablixRowHierarchy>
+        <DataSetName>DataSet1</DataSetName>
+        <Top>0.86995cm</Top>
+        <Left>1.70369cm</Left>
+        <Height>1.2cm</Height>
+        <Width>25.62813cm</Width>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Tablix>
+    </ReportItems>
+    <Height>4.13542in</Height>
+    <Style />
+  </Body>
+  <Width>11.61458in</Width>
+  <Page>
+    <PageHeader>
+      <Height>2.54cm</Height>
+      <PrintOnFirstPage>true</PrintOnFirstPage>
+      <PrintOnLastPage>true</PrintOnLastPage>
+      <ReportItems>
+        <Image Name="Image1">
+          <Source>Embedded</Source>
+          <Value>Logo</Value>
+          <Sizing>FitProportional</Sizing>
+          <Top>0.90385cm</Top>
+          <Left>1.70369cm</Left>
+          <Height>0.99729cm</Height>
+          <Width>1.5cm</Width>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+          </Style>
+        </Image>
+        <Textbox Name="Textbox12">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>ОАО "Калинковичский ремонтно-механический завод"</Value>
+                  <Style>
+                    <FontFamily>Times New Roman</FontFamily>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox10</rd:DefaultName>
+          <Top>0.90385cm</Top>
+          <Left>3.55911cm</Left>
+          <Height>1.02333cm</Height>
+          <Width>5.38396cm</Width>
+          <ZIndex>1</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="Textbox10">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>Карточка Материала</Value>
+                  <Style>
+                    <FontFamily>TImes New Roman</FontFamily>
+                    <FontSize>14pt</FontSize>
+                    <FontWeight>Bold</FontWeight>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox9</rd:DefaultName>
+          <Top>0.61281cm</Top>
+          <Left>9.89041cm</Left>
+          <Height>1.31438cm</Height>
+          <Width>9.70486cm</Width>
+          <ZIndex>2</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+      </ReportItems>
+      <Style>
+        <Border>
+          <Style>None</Style>
+        </Border>
+      </Style>
+    </PageHeader>
+    <PageFooter>
+      <Height>2.54cm</Height>
+      <PrintOnFirstPage>true</PrintOnFirstPage>
+      <PrintOnLastPage>true</PrintOnLastPage>
+      <ReportItems>
+        <Textbox Name="ExecutionTime">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>=Globals!ExecutionTime</Value>
+                  <Style>
+                    <FontFamily>Times New Roman</FontFamily>
+                    <FontSize>8pt</FontSize>
+                    <FontWeight>Bold</FontWeight>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style />
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>ExecutionTime</rd:DefaultName>
+          <Top>0.62604cm</Top>
+          <Left>1.70369cm</Left>
+          <Height>0.49417cm</Height>
+          <Width>3.53188cm</Width>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+      </ReportItems>
+      <Style>
+        <Border>
+          <Style>None</Style>
+        </Border>
+      </Style>
+    </PageFooter>
+    <PageHeight>21cm</PageHeight>
+    <PageWidth>29.7cm</PageWidth>
+    <LeftMargin>0.2cm</LeftMargin>
+    <RightMargin>0.2cm</RightMargin>
+    <TopMargin>0.2cm</TopMargin>
+    <BottomMargin>0.2cm</BottomMargin>
+    <ColumnSpacing>0.13cm</ColumnSpacing>
+    <Style />
+  </Page>
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="NORMDBDataSet">
+      <ConnectionProperties>
+        <DataProvider>System.Data.DataSet</DataProvider>
+        <ConnectString>/* Local Connection */</ConnectString>
+      </ConnectionProperties>
+      <rd:DataSourceID>bcfe00c6-550b-4d45-8cf4-8e0a0b5eb8be</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="DataSet1">
+      <Query>
+        <DataSourceName>NORMDBDataSet</DataSourceName>
+        <CommandText>/* Local Query */</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="ID_MatDB">
+          <DataField>ID_MatDB</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="ID_Mat">
+          <DataField>ID_Mat</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Name_Mat">
+          <DataField>Name_Mat</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="GOST_Mat">
+          <DataField>GOST_Mat</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Brand_Mat">
+          <DataField>Brand_Mat</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Type_Mat">
+          <DataField>Type_Mat</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Desc_Mat">
+          <DataField>Desc_Mat</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <rd:DataSetInfo>
+        <rd:DataSetName>NORMDBDataSet</rd:DataSetName>
+        <rd:SchemaPath>D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\NORMDBDataSet.xsd</rd:SchemaPath>
+        <rd:TableName>S_Mat</rd:TableName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+        <rd:TableAdapterName>S_MatTableAdapter</rd:TableAdapterName>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <EmbeddedImages>
+    <EmbeddedImage Name="Logo">
+      <MIMEType>image/png</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+  <rd:ReportID>61842d19-1994-4d15-b69d-a9b7f78c9744</rd:ReportID>
+</Report>

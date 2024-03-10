@@ -1,0 +1,600 @@
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\NORMAPP.exe.config
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\NORMAPP.exe
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\NORMAPP.pdb
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form1.resources
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Properties.Resources.resources
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.csproj.GenerateResource.cache
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.csproj.CoreCompileInputs.cache
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.exe
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.pdb
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\NORMDB.mdb
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form2.resources
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form3.resources
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.AboutBox1.resources
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\netstandard.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.AppContext.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Collections.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.ComponentModel.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Console.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Data.Common.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Globalization.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.Compression.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.Pipes.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Linq.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.Http.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.Ping.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.Primitives.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.Requests.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.Security.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.Sockets.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.ObjectModel.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Reflection.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Resources.Reader.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Resources.Writer.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Claims.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Principal.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.SecureString.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Text.Encoding.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.Thread.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.Timer.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.ValueTuple.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Xml.XPath.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Drawing.Common.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Permissions.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.exe.config
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.csproj.CopyComplete
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\EnvDTE.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\stdole.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form4.resources
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\RdlCompile.cache
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\RdlCompile.compiled
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report1.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form5.resources
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.csprojAssemblyReference.cache
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report6.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report7.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report8.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report2.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report3.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report4.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report5.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report9.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report10.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report11.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report12.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report13.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form6.resources
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form7.resources
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report14.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report15.rdlc
+C:\Users\Kolugin\source\repos\NORMAPP\NORMAPP\bin\Debug\Report16.rdlc
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\NORMDB.mdb
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Report1.rdlc
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Report11.rdlc
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Report14.rdlc
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Report15.rdlc
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Report16.rdlc
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Report2.rdlc
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Report3.rdlc
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Report4.rdlc
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Report5.rdlc
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Report6.rdlc
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Report7.rdlc
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Report8.rdlc
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\NORMAPP.exe.config
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\NORMAPP.exe
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\NORMAPP.pdb
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\netstandard.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.AppContext.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Collections.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.ComponentModel.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Console.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Data.Common.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Globalization.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.Compression.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.Pipes.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Linq.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.Http.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.Ping.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.Primitives.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.Requests.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.Security.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.Sockets.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.ObjectModel.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Reflection.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Resources.Reader.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Resources.Writer.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Claims.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Principal.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.SecureString.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Text.Encoding.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.Thread.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Threading.Timer.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.ValueTuple.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Xml.XPath.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Permissions.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\EnvDTE.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\stdole.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.exe.config
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.AboutBox1.resources
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form1.resources
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form2.resources
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form3.resources
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form4.resources
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form5.resources
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form6.resources
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form7.resources
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Properties.Resources.resources
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\RdlCompile.cache
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\RdlCompile.compiled
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.csproj.CopyComplete
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.exe
+C:\Users\Acer\Desktop\Рабочий стол\source\repos\NORMAPP\NORMAPP\obj\Debug\NORMAPP.pdb
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\NORMDB.mdb
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report1.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report2.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report3.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report4.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report5.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report6.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report7.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report8.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\NORMAPP.exe.config
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\NORMAPP.exe
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\NORMAPP.pdb
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\netstandard.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.AppContext.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Collections.Concurrent.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Collections.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Collections.NonGeneric.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Collections.Specialized.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.ComponentModel.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Console.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Data.Common.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Debug.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Process.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Tools.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Drawing.Primitives.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Dynamic.Runtime.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Globalization.Calendars.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Globalization.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Globalization.Extensions.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.IO.Compression.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.IO.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.IO.FileSystem.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.IO.Pipes.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Linq.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Linq.Expressions.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Linq.Parallel.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Linq.Queryable.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Net.Http.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Net.NameResolution.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Net.NetworkInformation.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Net.Ping.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Net.Primitives.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Net.Requests.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Net.Security.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Net.Sockets.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Net.WebSockets.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.ObjectModel.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Reflection.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Reflection.Extensions.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Reflection.Primitives.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Resources.Reader.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Resources.ResourceManager.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Resources.Writer.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Runtime.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Extensions.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Handles.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Runtime.InteropServices.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Numerics.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Security.Claims.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Security.Principal.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Security.SecureString.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Text.Encoding.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Text.RegularExpressions.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Threading.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Threading.Overlapped.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Threading.Tasks.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Threading.Thread.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Threading.ThreadPool.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Threading.Timer.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.ValueTuple.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Xml.XDocument.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Xml.XmlDocument.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Xml.XPath.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Drawing.Common.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Security.AccessControl.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Security.Permissions.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Security.Principal.Windows.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\EnvDTE.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\stdole.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.csproj.AssemblyReference.cache
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.csproj.SuggestedBindingRedirects.cache
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.exe.config
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.AboutBox1.resources
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form1.resources
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form2.resources
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form3.resources
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form4.resources
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form5.resources
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form6.resources
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Form7.resources
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.Properties.Resources.resources
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.csproj.GenerateResource.cache
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.csproj.CoreCompileInputs.cache
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.csproj.CopyComplete
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.exe
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\obj\Debug\NORMAPP.pdb
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report9.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report10.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report11.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report12.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report13.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report14.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report15.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report16.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report17.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report18.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report19.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report20.rdlc
+D:\Сохранить\Рабочий стол\Проекты\NORMAPP\NORMAPP\bin\Debug\Report21.rdlc
